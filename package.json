@@ -1,6 +1,6 @@
 {
   "name": "twilio-programmable-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Its allow to send programmable message in allowed country as per twilio list https://support.twilio.com/hc/en-us/articles/223133767-International-support-for-Alphanumeric-Sender-ID ",
   "main": "index.js",
   "scripts": {
