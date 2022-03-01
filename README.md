@@ -1,6 +1,10 @@
 # twilio-programmable-message
 
-This npm library is used to send messages through Twilio in programmable format. It helps to send the programable message(If it's listed on allowed country) by passing just a few things.
+***programmable message***:- It means send message with brand name.
+
+This npm library is used to send messages through Twilio in programmable format. It helps to send the programable message(If it's listed on allowed country. Visit: https://support.twilio.com/hc/en-us/articles/223133767-International-support-for-Alphanumeric-Sender-ID ) by passing just a few things.
+
+If you have passed a country that allows you to send a programmable message then it directly sends the programmable message otherwise it sends a normal Twilio message which not include your brand name in the title of your brand.
 example as mentioned below:
 
 ```
