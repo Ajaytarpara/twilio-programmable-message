@@ -1,0 +1,28 @@
+{
+  "name": "twilio-programmable-message",
+  "version": "1.0.0",
+  "description": "Its allow to send programmable message in allowed country as per twilio list https://support.twilio.com/hc/en-us/articles/223133767-International-support-for-Alphanumeric-Sender-ID ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajaytarpara/twilio-programmable-message.git"
+  },
+  "keywords": [
+    "twilio",
+    "programmable",
+    "message"
+  ],
+  "author": "Ajay Tarpara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajaytarpara/twilio-programmable-message/issues"
+  },
+  "homepage": "https://github.com/Ajaytarpara/twilio-programmable-message#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "phone": "^3.1.12"
+  }
+}
