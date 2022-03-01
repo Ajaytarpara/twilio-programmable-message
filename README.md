@@ -23,6 +23,6 @@ sendSMS(client,"write your brand name here","+447777777777","body of text","mess
 | ---                   |---                          | ---                                   |
 | Client                |                             | twilio client                         |
 | Brand name            | String                      | brand name of compay or project       |
-| Sender phone number   | String or Array of String   | phone number with code(+sign is must) |
+| Sender phone number   | String or Array of String   | phone number with code( '+'sign is must) |
 | message               | String                      | body of message                       |
 | messaging service Id  | String                      | messaging service Id get from twilio  |
